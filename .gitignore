@@ -1,2 +1,9 @@
 .DS_Store
 .claude/
+
+# 排除非小说内容
+data/
+keyfield/
+store/
+CLAUDE.md
+knowledge/
