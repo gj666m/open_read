@@ -1,0 +1,104 @@
+{
+  "hooks": [
+    {
+      "hookId": "hk_001",
+      "startChapter": 4,
+      "type": "物品",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "揭示铁剑为传奇佩剑'断隙'的真实身份",
+      "payoffTiming": "mid-arc",
+      "notes": "**重大推进**：图书馆拓片确认铁剑名为\"断隙\"，与银盾骑士团初代团长损毁佩盾同源。银白覆盖接近1/2。铁剑展现新能力：纠正剑术姿势、吸收并反弹物理力量。触碰拓片时红印发烫、铁剑嗡鸣共振。"
+    },
+    {
+      "hookId": "hk_006",
+      "startChapter": 4,
+      "type": "金手指",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "魔力真空异象引来学院导师特别关注",
+      "payoffTiming": "mid-arc",
+      "notes": "入选格伦进阶战技课（一年级唯一），卡尔称\"格伦从你剑上看到了什么\"。休斯追问父亲身份，似在调查巴斯特。"
+    },
+    {
+      "hookId": "hk_007",
+      "startChapter": 4,
+      "type": "悬念",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "边境结界崩溃引发魔族入侵危机",
+      "payoffTiming": "mid-arc",
+      "notes": "剑尖持续指向西方枫叶镇方向。梦中战场天空深紫色裂痕，与边境封印衰退呼应。"
+    },
+    {
+      "hookId": "mystery-揭示十二年前-原生学员的真实身份与结局",
+      "startChapter": 4,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "揭示十二年前原生学员的真实身份与结局",
+      "payoffTiming": "mid-arc",
+      "notes": "无新推进。休斯追问雷恩父亲身份，可能与十二年前线索相关。"
+    },
+    {
+      "hookId": "悬念-揭示-原生",
+      "startChapter": 4,
+      "type": "悬念",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "揭示'原生'分类在学院体系中的特殊含义及对雷恩的影响",
+      "payoffTiming": "mid-arc",
+      "notes": "原生标签持续遭歧视，食堂无人愿同桌。布拉德散布谣言被格伦制止。"
+    },
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "揭示铁剑为传奇佩剑'断隙'的真实身份",
+      "payoffTiming": "mid-arc",
+      "notes": "**接近兑现**：名字确认为\"断隙\"，银盾骑士团记载已找到（300年前解散，成员下落不明），拓片与剑身纹路完全吻合。缺：初代团长身份、解散原因、剑如何流落到巴斯特手中。"
+    },
+    {
+      "hookId": "hk_003",
+      "startChapter": 4,
+      "type": "阵营",
+      "status": "progressing",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "追查者与巴斯特一家正面冲突，迫使巴斯特暴露身份或雷恩卷入危险",
+      "payoffTiming": "mid-arc",
+      "notes": "**重大推进**：追查者直接上门，以修断刀为由观察巴斯特双手，识破\"握锤姿势像握过别的东西\"。巴斯特持锤守夜，后院有人监视，老狗示警。家庭危机急剧升级。"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "揭露噩梦为婴儿时期父母遭遇围杀的真实记忆",
+      "payoffTiming": "mid-arc",
+      "notes": "**重大推进**：首次完整战场梦境（非噩梦），银甲骑士持完好铁剑vs巨大阴影（暗红光点眼睛），锯齿盾牌碎裂，碎片飞向战场后方模糊身影（怀里抱着什么）。骑士灰眼浅疤——可能是巴斯特或前任剑主。"
+    },
+    {
+      "hookId": "hk_008",
+      "startChapter": 6,
+      "type": "物品",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "维拉教授结界暗门背后的秘密",
+      "payoffTiming": "mid-arc",
+      "notes": "新增。图书馆深处暗门有维拉教授结界，触碰至少三度烧伤。学生助管提醒。"
+    },
+    {
+      "hookId": "hk_009",
+      "startChapter": 6,
+      "type": "悬念",
+      "status": "open",
+      "lastAdvancedChapter": 6,
+      "expectedPayoff": "梦中战场后方模糊身影的身份",
+      "payoffTiming": "mid-arc",
+      "notes": "新增。银盾碎裂后碎片飞向战场后方模糊身影，该身影怀里抱着什么（可能是婴儿雷恩）。骑士与碎片同飞向该方向——似在保护。"
+    }
+  ]
+}

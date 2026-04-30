@@ -1,0 +1,28 @@
+{
+  "chapter": 1,
+  "plannerInputs": [
+    "/Users/xiaolongxiano.1/workdir/Demand-Flow_AI/inkos-novel/books/转生异界-我的剑术天赋碾压一切/story/runtime/chapter-0001.intent.md"
+  ],
+  "composerInputs": [
+    "/Users/xiaolongxiano.1/workdir/Demand-Flow_AI/inkos-novel/books/转生异界-我的剑术天赋碾压一切/story/runtime/chapter-0001.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/pending_hooks.md#mystery-揭示十二年前-原生-先例人物的身",
+    "story/pending_hooks.md#悬念-揭示-原生",
+    "story/pending_hooks.md#hk_001",
+    "story/pending_hooks.md#hk_003",
+    "story/pending_hooks.md#hk_006",
+    "story/pending_hooks.md#hk_007",
+    "story/pending_hooks.md#hk_005",
+    "story/pending_hooks.md#hk_002"
+  ],
+  "notes": []
+}

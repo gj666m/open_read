@@ -1,0 +1,213 @@
+[
+  {
+    "number": 1,
+    "title": "烧火棍与旧噩梦",
+    "status": "ready-for-review",
+    "wordCount": 3436,
+    "createdAt": "2026-04-30T06:20:07.604Z",
+    "updatedAt": "2026-04-30T08:10:01.680Z",
+    "auditIssues": [
+      "[info] 雷恩乘车离开后，视角短暂切至巴斯特与艾琳的对话（约300字），揭示了雷恩不知情的信息：剑有封印、三拨可疑人探听消息、边境结界衰弱。这是开篇建立全局悬念的常见手法，但打破了此前紧贴雷恩的有限视角。",
+      "[info] 老托马斯作为本章唯一登场的非家庭成员配角，功能较为单一（提供交通工具、传递边境失踪信息），缺乏个人色彩或独立动机的展现。"
+    ],
+    "lengthWarnings": [
+      "第1章经过一次字数归一化后仍超出硬区间（3637-6363，实际 3436）。"
+    ],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 6310,
+      "postWriterNormalizeCount": 0,
+      "postReviseCount": 3436,
+      "finalCount": 3436,
+      "normalizeApplied": true,
+      "lengthWarning": true
+    },
+    "tokenUsage": {
+      "promptTokens": 25753,
+      "completionTokens": 50912,
+      "totalTokens": 76665
+    }
+  },
+  {
+    "number": 2,
+    "title": "残缺的徽纹",
+    "status": "ready-for-review",
+    "wordCount": 4709,
+    "createdAt": "2026-04-30T06:42:39.673Z",
+    "updatedAt": "2026-04-30T08:14:30.111Z",
+    "auditIssues": [
+      "[info] 章节结尾使用了‘他不知道的是’这一经典上帝视角句式来揭示铁剑锈迹剥落。虽然在网文中是常规的悬念制造手法，但略微打破了前文严格跟随雷恩第一视角的沉浸感。",
+      "[info] 雷恩在马车上观察到伪装成商人的可疑人物‘重心压得低’，这与第1章巴斯特观察到的仇家特征完全一致。侧面印证了雷恩极高的战斗天赋和洞察力，处理得非常巧妙。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 4709,
+      "postWriterNormalizeCount": 4709,
+      "postReviseCount": 0,
+      "finalCount": 4709,
+      "normalizeApplied": false,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 21072,
+      "completionTokens": 36312,
+      "totalTokens": 57384
+    }
+  },
+  {
+    "number": 3,
+    "title": "无声的刻度",
+    "status": "ready-for-review",
+    "wordCount": 6107,
+    "createdAt": "2026-04-30T07:24:15.445Z",
+    "updatedAt": "2026-04-30T08:20:33.431Z",
+    "auditIssues": [
+      "[warning] 连续三章（第1至第3章）均处于铺垫和压抑悬疑状态，虽然悬念层层递进，但至今未见实质性的爽点落地。章尾卡尔·霍恩的警告虽然拉扯了期待感，但主角一直处于被动接受异常状态（红印、噩梦、零感应），缺乏主动展示实力的情节。对照卷纲中“前三十章必须保持每三到五章出现一次‘剑技碾压’的纯爽点”原则，爽点释放已临近极限。",
+      "[info] 第3章中雷恩在噩梦中看到高大男人（暗示巴斯特）佩戴残缺的盾牌徽章，而第2章塞西莉亚佩戴的也是残缺徽章。这一对照完美推进了hk_002和hk_004，通过视觉符号的相似性将父母身世与女主家族串联，伏笔的植入与回收节奏十分精准。",
+      "[info] 雷恩在魔力测试时感到“力量被吸走”，如同“挥剑时的缺氧感”。这一细节不仅与状态卡中“挥剑时会产生空气凝滞和缺氧感”完美契合，且合理解释了测魔石为何不亮（魔力/空气被真空抽离而非正常反馈），是对hk_006（真空异象）的优秀具象化描写，未发生设定冲突。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 6198,
+      "postWriterNormalizeCount": 6107,
+      "postReviseCount": 0,
+      "finalCount": 6107,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 29382,
+      "completionTokens": 64983,
+      "totalTokens": 94365
+    }
+  },
+  {
+    "number": 4,
+    "title": "深渊的注视",
+    "status": "ready-for-review",
+    "wordCount": 2783,
+    "createdAt": "2026-04-30T07:43:21.425Z",
+    "updatedAt": "2026-04-30T08:30:40.208Z",
+    "auditIssues": [
+      "[info] 章节中后段从雷恩在宿舍读信，直接切换到魔族将领（灰袍）观察石碑的视角，随后又切回雷恩在宿舍。虽然这种上帝视角的切镜是网文常见手法，但目前的段落过渡略显生硬，缺乏明确的排版分隔。",
+      "[info] 近期章节类型序列为：开篇章 -> 推进章 -> 推进章 -> 推进章。虽然目前处于第一卷前期铺陈阶段，悬念铺设（身世、铁剑、魔族）非常密集且出色，但连续多章没有产生实质性的情绪释放或高潮点（如小规模的冲突、打脸或实战检验），可能会导致部分追求快节奏的读者感到压抑。",
+      "[info] 本章AI标记词（仿佛/不禁/宛如/竟然/忽然/猛地）控制得极为优秀，出现次数为0。高疲劳词汇也未出现。文风干练冷峻，非常契合主角性格与当前悬疑氛围。",
+      "[info] 本章剧情与摘要高度吻合：休斯导师谈话、原生分类、家信传递危机、铁剑一天三次转向、魔族石碑觉醒。章节精确覆盖了所有既定节点，且信息释放节奏得当，没有提前消耗后续大纲的内容。",
+      "[warning] 最近3章章节类型持续停留在“推进章”，长篇节奏可能开始固化。"
+    ],
+    "lengthWarnings": [
+      "第4章经过一次字数归一化后仍超出硬区间（3637-6363，实际 2783）。"
+    ],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 6519,
+      "postWriterNormalizeCount": 2783,
+      "postReviseCount": 0,
+      "finalCount": 2783,
+      "normalizeApplied": true,
+      "lengthWarning": true
+    },
+    "tokenUsage": {
+      "promptTokens": 30779,
+      "completionTokens": 43135,
+      "totalTokens": 73914
+    }
+  },
+  {
+    "number": 5,
+    "title": "锈剑初鸣",
+    "status": "ready-for-review",
+    "wordCount": 5079,
+    "createdAt": "2026-04-30T09:12:09.505Z",
+    "updatedAt": "2026-04-30T09:12:09.505Z",
+    "auditIssues": [
+      "[warning] 卡尔·霍恩在食堂特意警告雷恩，格伦导师极度注重仪态规矩，最讨厌没制式标准的破烂，带铁剑去会被当众勒令换掉甚至只配拿木棍。但在随后的实战课上，格伦导师却当众说“哪怕带一根烧火棍上去，也是你们的自由”，两者表现严重冲突。如果卡尔是善意且熟悉学院流程，此处的情报错误会显得他在强行推动剧情（让雷恩产生是否带剑的心理冲突），或者显得卡尔的人设（了解流程）崩塌。",
+      "[warning] 在 Hook Agenda 中，要求推进 `hook-1` (铁剑真实身份) 和 `hook-2` (噩梦真实记忆)。本章中铁剑吸收火球显化“银盾”纹路，而雷恩确认这与他噩梦中碎裂的银盾完全吻合。虽然剧情上完成了联动，但铁剑从单纯“发热/转向”直接跳跃到“主动吸收高阶魔法火球”，能力展现略显突兀，缺乏雷恩对铁剑为何能瞬间吞掉火球的内在探究或惊讶。",
+      "[info] 红发男生在第一发火球被吞噬后，虽然震惊，但紧接着又聚起比刚才大一倍的恐怖火球继续攻击。在一个零感应的新手面前，直接使用“恐怖火球”这种可能致死的高阶魔法，且是在第一节课上，即便格伦导师崇尚实战，这种行为在魔法学院环境中也略显极端，仿佛是为了给主角送头而强行提升魔法威力。",
+      "[info] 文中使用了“犹如千年树桩”、“犹如城墙般巨大”、“犹如极细金属丝”、“犹如鹰隼”等比喻，密度稍高，略显刻意。",
+      "[warning] 最近3章章节类型持续停留在“推进章”，长篇节奏可能开始固化。",
+      "[warning] 当前有 15 个活跃伏笔，已经高于建议上限 12 个。"
+    ],
+    "lengthWarnings": [],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 3988,
+      "postWriterNormalizeCount": 8324,
+      "postReviseCount": 5079,
+      "finalCount": 5079,
+      "normalizeApplied": true,
+      "lengthWarning": false
+    },
+    "tokenUsage": {
+      "promptTokens": 96566,
+      "completionTokens": 117947,
+      "totalTokens": 214513
+    }
+  },
+  {
+    "number": 6,
+    "title": "剑鞘里的余温",
+    "status": "ready-for-review",
+    "wordCount": 3083,
+    "createdAt": "2026-04-30T09:40:16.932Z",
+    "updatedAt": "2026-04-30T09:40:16.932Z",
+    "auditIssues": [
+      "[warning] 女主角塞西莉亚自第3章短暂对视后，已连续3章（第4-6章）完全未出场或被提及。虽然当前剧情聚焦于铁剑觉醒与家庭危机，但作为设定的核心女主，长时间缺席可能导致读者对其存在感淡化。",
+      "[info] 本章对铁剑真相（hk_001/hook-1）、噩梦真相（hook-2）和追查者逼近（hk_003）的推进非常健康。雷恩在图书馆发现“断隙”拓片，并在梦境中看到完整战场，属于 mid-arc 阶段极佳的“部分兑现”。既满足了读者的好奇心，又抛出了新的悬念（骑士身份与三百年前的真相）。",
+      "[info] 本章极好地执行了 Chapter Intent 中“必须降调——安排日常/喘息/温情场景”的指令。从开篇无噩梦的安稳，到图书馆查阅资料的日常感，再到卡尔的陪练与开导，最后以温情且坚定的陪伴收尾。情绪曲线从上章的高压爆发平滑回落并蓄力，张弛有度。",
+      "[info] 本章行文流畅自然，高疲劳词与AI标记词密度极低。母亲的信件“我做饭时多放了盐，心里慌总这样”极具生活气息，完美契合角色状态，没有流于俗套的惊慌描写。",
+      "[warning] 最近3章持续高压（压抑疑云中暗流涌动 -> 暗流涌动中危机四伏 -> 压抑积蓄到震撼爆发），缺少明显的情绪释放。",
+      "[warning] 这些伏笔已经进入回收/推进压力，但本章没有真正处理：mystery-揭示十二年前-原生学员的真实身份与结局（中程，可回收）。",
+      "[warning] 连续出现4个不足35字的短段，容易形成短句堆砌。"
+    ],
+    "lengthWarnings": [
+      "第6章经过一次字数归一化后仍超出硬区间（3637-6363，实际 3083）。"
+    ],
+    "lengthTelemetry": {
+      "target": 5000,
+      "softMin": 4319,
+      "softMax": 5681,
+      "hardMin": 3637,
+      "hardMax": 6363,
+      "countingMode": "zh_chars",
+      "writerCount": 5651,
+      "postWriterNormalizeCount": 5651,
+      "postReviseCount": 3083,
+      "finalCount": 3083,
+      "normalizeApplied": true,
+      "lengthWarning": true
+    },
+    "tokenUsage": {
+      "promptTokens": 93412,
+      "completionTokens": 79751,
+      "totalTokens": 173163
+    }
+  }
+]

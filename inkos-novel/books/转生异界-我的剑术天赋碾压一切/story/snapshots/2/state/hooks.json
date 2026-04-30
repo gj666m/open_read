@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "hk_008",
+      "startChapter": 0,
+      "type": "阵营",
+      "status": "open",
+      "lastAdvancedChapter": 0,
+      "expectedPayoff": "150",
+      "payoffTiming": "endgame",
+      "notes": "魔王手中的那块黑色残碑上预言的“终结族群的银色神明”，其画像特征与彻底爆发剑气时的雷恩完全吻合。"
+    },
+    {
+      "hookId": "hk_002",
+      "startChapter": 0,
+      "type": "身世",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "揭露噩梦为婴儿时期父母遭遇围杀的真实记忆",
+      "payoffTiming": "mid-arc",
+      "notes": "噩梦细节大幅深化：首次出现燃烧城市、坍塌建筑、遍地尸体的清晰画面；高大男人举剑的模糊人影首次出现；接触铁剑后梦境变得更清晰。三天前抓破枕头。"
+    },
+    {
+      "hookId": "hk_003",
+      "startChapter": 0,
+      "type": "阵营",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "追查者与巴斯特一家正面冲突，迫使巴斯特暴露身份或雷恩卷入危险",
+      "payoffTiming": "near-term",
+      "notes": "巴斯特向艾琳透露上个月有三拨伪装成商人的持剑者来镇上打探他们，步伐沉稳、重心压低（常年握剑者的特征）。这是一个独立于现有hook的迫近威胁，有具体表现（三拨人、商人伪装、持剑者特征），将直接影响巴斯特一家的安全。"
+    },
+    {
+      "hookId": "hk_006",
+      "startChapter": 0,
+      "type": "金手指",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "魔力真空异象引来学院导师特别关注",
+      "payoffTiming": "immediate",
+      "notes": "雷恩全力施展基础剑法两万遍后，周围空气变得稀薄、胸口发闷，像被抽走东西。这种感觉越来越频繁。魔力真空异象首次明确显化。"
+    },
+    {
+      "hookId": "hk_007",
+      "startChapter": 0,
+      "type": "悬念",
+      "status": "progressing",
+      "lastAdvancedChapter": 1,
+      "expectedPayoff": "边境结界崩溃引发魔族入侵危机",
+      "payoffTiming": "mid-arc",
+      "notes": "艾琳确认边境结界又弱了一点，巴斯特承认'撑不了几年了'。结界衰弱的威胁时间线被具体化。"
+    },
+    {
+      "hookId": "hk_001",
+      "startChapter": 0,
+      "type": "物品",
+      "status": "progressing",
+      "lastAdvancedChapter": 2,
+      "expectedPayoff": "揭示铁剑为传奇佩剑'断隙'的真实身份",
+      "payoffTiming": "slow-burn",
+      "notes": "铁剑异常加重：银发少女经过时产生震动反应；雷恩确认红印与铁剑温度同步变化（'像是有什么东西把它们连在了一起'）；雷恩转身时剑身锈迹无声剥落露出银白色金属光泽。封印松动在加速。"
+    },
+    {
+      "hookId": "hk_004",
+      "startChapter": 0,
+      "type": "感情",
+      "status": "progressing",
+      "lastAdvancedChapter": 2,
+      "expectedPayoff": "100",
+      "payoffTiming": "slow-burn",
+      "notes": "银发少女（塞西莉亚）首次登场。残缺银质徽章详细呈现：几何纹路中间有一道被硬物刮去的空白断口。雷恩与少女靠近时掌心红印剧烈发烫、包裹中铁剑震动，暗示雷恩/铁剑与少女/徽章存在共鸣。少女似乎察觉到什么（低头看了一眼胸口）但未表露。雷恩不知她是谁。"
+    },
+    {
+      "hookId": "hk_005",
+      "startChapter": 0,
+      "type": "冲突",
+      "status": "progressing",
+      "lastAdvancedChapter": 2,
+      "expectedPayoff": "25",
+      "payoffTiming": "near-term",
+      "notes": "雷恩获得大量失踪案具体信息：贝克等三批低级冒险者在边境护送任务中凭空失踪（车货俱在、无血迹无尸体）；假任务通过非正常渠道以合法程序盖真章塞入公会系统，发布人身份不明，专门钓贪便宜的新人；赏金异常高（三十银币 vs 正常十五银币）；码头寻人启事证实贝克失踪；王都分部五天前发布官方调查通告。雷恩虽非冒险者但对此事产生警觉。"
+    }
+  ]
+}

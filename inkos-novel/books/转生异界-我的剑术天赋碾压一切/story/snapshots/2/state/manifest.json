@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "language": "zh",
+  "lastAppliedChapter": 2,
+  "projectionVersion": 1,
+  "migrationWarnings": [
+    "hk_001:status normalized from \"埋设\" to \"open\"",
+    "hk_002:status normalized from \"埋设\" to \"open\"",
+    "hk_003:status normalized from \"埋设\" to \"open\"",
+    "hk_004:status normalized from \"埋设\" to \"open\"",
+    "hk_005:status normalized from \"埋设\" to \"open\"",
+    "hk_006:status normalized from \"埋设\" to \"open\"",
+    "hk_007:status normalized from \"埋设\" to \"open\"",
+    "hk_008:status normalized from \"埋设\" to \"open\""
+  ]
+}

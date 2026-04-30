@@ -1,0 +1,22 @@
+{
+  "sessionId": "1777515275458-grxzqt",
+  "bookId": null,
+  "title": "/new 我想写一个日式幻想题材的小说",
+  "messages": [
+    {
+      "role": "user",
+      "content": "/new 我想写一个日式幻想题材的小说",
+      "timestamp": 1777516188513
+    },
+    {
+      "role": "assistant",
+      "content": "日式幻想题材，有意思。这个方向有很多可以玩的风格。\n\n先确认一下基调，你想要的是哪种感觉？\n\n- **和风奇幻**：妖怪、神社、阴阳师，类似平安日本背景的幻想世界\n- **异世界转生**：现代主角穿越到日式RPG风格的世界，带有等级、职业、技能等系统\n- **日式轻小说风**：校园+超能力/魔法，日常与战斗交织，类似《魔法禁书目录》那种氛围\n- **黑化和风**：日式恐怖幻想，带有怨灵、诅咒、堕落神明等暗黑元素\n\n你更倾向哪个方向？",
+      "thinking": "The user wants to create a new book with a Japanese fantasy theme. Let me start by gathering more information step by step. I should ask one question at a time.\n\nLet me start by asking about the core concept or world-building details.",
+      "timestamp": 1777516188514
+    }
+  ],
+  "draftRounds": [],
+  "events": [],
+  "createdAt": 1777515275458,
+  "updatedAt": 1777516188513
+}

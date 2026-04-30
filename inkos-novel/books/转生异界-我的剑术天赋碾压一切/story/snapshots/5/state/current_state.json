@@ -1,0 +1,53 @@
+{
+  "chapter": 5,
+  "facts": [
+    {
+      "subject": "protagonist",
+      "predicate": "当前位置",
+      "object": "北区217宿舍（门口）",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "主角状态",
+      "object": "铁剑银白覆盖剑身1/4，银盾纹路完全显现；确认铁剑可吸收魔力攻击；红印形状与噩梦盾牌碎片弧度完全吻合；原生标签已全校传开；实战课引发高年级关注；格伦导师暗示铁剑不简单；看台有神秘人物关注雷恩",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前目标",
+      "object": "调查铁剑银盾纹路与噩梦的深层关联；在学院站稳脚跟；查清十二年前原生学员真相（但被警告有危险）",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前限制",
+      "object": "不知铁剑真实来历与父亲塞剑原因；不知父母隐居真相；不知十二年前原生学员下落；调查十二年前的事被卡尔警告极度危险（去年有学生因此退学消失）；必须向休斯如实汇报异常",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前敌我",
+      "object": "卡尔·霍恩（第三次释放善意/关键提醒，动机不明）；格伦导师（审视铁剑后暗示\"好好保养\"，态度从轻蔑转为凝重）；维拉导师（理论课导师，封印理论专家）；看台神秘高年级人物（未知立场，已派人去报信）；红发男生（被铁剑吸收魔力后恐惧）",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    },
+    {
+      "subject": "protagonist",
+      "predicate": "当前冲突",
+      "object": "铁剑觉醒加速（吸收魔力、银盾纹路显现、剑尖指向西方边境）；自身原生体质暴露引来关注与歧视；调查十二年前真相有被消失的风险；看台神秘势力注意到雷恩",
+      "validFromChapter": 5,
+      "validUntilChapter": null,
+      "sourceChapter": 5
+    }
+  ]
+}

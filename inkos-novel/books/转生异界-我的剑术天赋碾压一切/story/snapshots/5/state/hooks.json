@@ -1,0 +1,84 @@
+{
+  "hooks": [
+    {
+      "hookId": "hk_001",
+      "startChapter": 4,
+      "type": "物品",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "揭示铁剑为传奇佩剑'断隙'的真实身份",
+      "payoffTiming": "mid-arc",
+      "notes": "**重大推进**：铁剑在实战课吸收两枚火球，银白覆盖剑身1/4，银盾纹路完全显现并烙印剑身中央。格伦导师审视后意有所指称\"既然是把好剑，好好保养它\"。夜晚剑尖转向指向西方（王国边境方向）。"
+    },
+    {
+      "hookId": "hk_003",
+      "startChapter": 4,
+      "type": "阵营",
+      "status": "progressing",
+      "lastAdvancedChapter": 4,
+      "expectedPayoff": "追查者与巴斯特一家正面冲突，迫使巴斯特暴露身份或雷恩卷入危险",
+      "payoffTiming": "mid-arc",
+      "notes": "无新进展。石碑画像觉醒加速，灰袍称'殿下等了三百年，封印不能再拖'。"
+    },
+    {
+      "hookId": "hk_006",
+      "startChapter": 4,
+      "type": "金手指",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "魔力真空异象引来学院导师特别关注",
+      "payoffTiming": "mid-arc",
+      "notes": "原生标签全校传开，实战课铁剑吸收魔力引发全场震惊。看台最高处高年级区域有神秘人物注意并交换眼神，其中一人快速离开去向不明。格伦导师亲自审视铁剑。"
+    },
+    {
+      "hookId": "hk_007",
+      "startChapter": 4,
+      "type": "悬念",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "边境结界崩溃引发魔族入侵危机",
+      "payoffTiming": "mid-arc",
+      "notes": "铁剑剑尖夜晚转向指向西方（王国边境方向），叙事明确指出\"边境那边，有东西正在不可逆转地松动\"。与先前灰袍\"西境封印加速衰退\"形成呼应。"
+    },
+    {
+      "hookId": "mystery-揭示十二年前-原生学员的真实身份与结局",
+      "startChapter": 4,
+      "type": "mystery",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "揭示十二年前原生学员的真实身份与结局",
+      "payoffTiming": "mid-arc",
+      "notes": "**重要推进**：卡尔警告去年有学生试图去图书馆绝密区打听内幕，几天后办理退学手续，\"现在已经彻底不在学院了\"。调查此事存在被消失的真实危险。"
+    },
+    {
+      "hookId": "悬念-揭示-原生",
+      "startChapter": 4,
+      "type": "悬念",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "揭示'原生'分类在学院体系中的特殊含义及对雷恩的影响",
+      "payoffTiming": "mid-arc",
+      "notes": "\"原生\"标签已在公告栏传开，实战课被讽刺性排到最末尾，被对手轻蔑。"
+    },
+    {
+      "hookId": "hook-1",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "揭示铁剑为传奇佩剑'断隙'的真实身份",
+      "payoffTiming": "mid-arc",
+      "notes": "同hk_001。铁剑吸收火球、银盾纹路显现、指向西方。"
+    },
+    {
+      "hookId": "hook-2",
+      "startChapter": 0,
+      "type": "unspecified",
+      "status": "open",
+      "lastAdvancedChapter": 5,
+      "expectedPayoff": "揭露噩梦为婴儿时期父母遭遇围杀的真实记忆",
+      "payoffTiming": "mid-arc",
+      "notes": "**重大推进**：银盾纹路100%确认与噩梦中碎裂的巨大银盾一模一样（含边缘锯齿状缺口）。红印形状与盾牌碎片弧度完全吻合。理论课\"容器共鸣与封印原理\"中四象封印阵的中心交汇点与盾牌碎片坠落轨迹完全吻合——噩梦是真实记忆的铁证。"
+    }
+  ]
+}

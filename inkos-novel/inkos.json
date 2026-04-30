@@ -1,0 +1,35 @@
+{
+  "name": "inkos-novel",
+  "version": "0.1.0",
+  "language": "zh",
+  "llm": {
+    "provider": "openai",
+    "service": "custom:自定义",
+    "configSource": "env",
+    "baseUrl": "",
+    "model": "",
+    "apiFormat": "chat",
+    "stream": true,
+    "services": [
+      {
+        "service": "custom",
+        "name": "自定义",
+        "baseUrl": "https://api.z.ai/api/coding/paas/v4",
+        "temperature": 0.7,
+        "maxTokens": 4096,
+        "apiFormat": "chat",
+        "stream": true
+      }
+    ],
+    "defaultModel": "glm-5.1"
+  },
+  "notify": [],
+  "inputGovernanceMode": "v2",
+  "daemon": {
+    "schedule": {
+      "radarCron": "0 */6 * * *",
+      "writeCron": "*/15 * * * *"
+    },
+    "maxConcurrentBooks": 3
+  }
+}

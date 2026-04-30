@@ -1,0 +1,35 @@
+{
+  "chapter": 4,
+  "plannerInputs": [
+    "/Users/xiaolongxiano.1/workdir/Demand-Flow_AI/inkos-novel/books/转生异界-我的剑术天赋碾压一切/story/runtime/chapter-0004.intent.md"
+  ],
+  "composerInputs": [
+    "/Users/xiaolongxiano.1/workdir/Demand-Flow_AI/inkos-novel/books/转生异界-我的剑术天赋碾压一切/story/runtime/chapter-0004.intent.md"
+  ],
+  "selectedSources": [
+    "story/current_focus.md",
+    "story/audit_drift.md",
+    "story/current_state.md",
+    "story/story_bible.md",
+    "story/volume_outline.md",
+    "story/chapter_summaries.md#recent_titles",
+    "story/chapter_summaries.md#recent_mood_type_trail",
+    "story/chapters#recent_endings",
+    "story/current_state.md#当前冲突",
+    "story/current_state.md#当前目标",
+    "story/current_state.md#主角状态",
+    "story/current_state.md#当前限制",
+    "story/chapter_summaries.md#1",
+    "story/chapter_summaries.md#2",
+    "story/chapter_summaries.md#3",
+    "story/pending_hooks.md#hook-1",
+    "story/pending_hooks.md#hook-2",
+    "story/pending_hooks.md#hook-3",
+    "story/pending_hooks.md#hook-4",
+    "story/pending_hooks.md#hook-5",
+    "story/pending_hooks.md#hook-6",
+    "story/pending_hooks.md#hook-7",
+    "story/pending_hooks.md#hook-8"
+  ],
+  "notes": []
+}

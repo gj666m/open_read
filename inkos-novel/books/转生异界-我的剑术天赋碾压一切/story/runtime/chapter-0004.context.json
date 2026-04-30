@@ -1,0 +1,120 @@
+{
+  "chapter": 4,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第4章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "严禁配角强行降智商来配合主角装逼"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书规划为五卷，情绪起伏紧扣“爽燃”与“温情”的交织。第一卷的主题是“锋芒初露与学院风云”，情绪曲线是轻松明快逐渐上扬，伴随着扮猪吃虎的爽感，在学院大比时达到沸点。第二卷主题为“公会淬炼与边境暗流”，情绪从热血的实战历练转向压抑与悬疑，魔族的阴影初次浮现，带来一种危机四伏的冷冽感。第三卷主题是“传奇归位与血统真相”，情绪急转直下后触底反弹，揭露父母身份的震撼与面对王国体制背叛的愤怒交织，爆发出反抗的极致燃点。第四卷主题是“种族之战与至死不渝”，情绪陷入悲壮与高亢的交替，魔族大举入侵，主角团在绝境中殊死搏杀。第五卷主题为“世界危机与最强之剑”，情绪走向史诗般的宏大与肃穆，随后在最终决战中释放所有张力，最终回归极度的宁静与温情。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "3: 无声的刻度 | 2: 残缺的徽纹 | 1: 烧火棍与旧噩梦"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "3: 压抑疑云中暗流涌动 / 推进章 | 2: 旅途暗涌中悬念渐浓 / 推进章 | 1: 温馨离愁中暗藏隐忧 / 开篇章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch1: 那道红印藏在手套下面，隐隐发烫。 | ch2: 露出下面银白色的金属光泽。 | ch3: 但他的手指在微微发抖。"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 铁剑封印似乎在松动并引发噩梦与红印；边境不太平导致冒险者频频失踪"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 搭乘渡船过河前往王都；安顿学院生活"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 离家前往王都魔法学院；获赠一把锈迹斑斑但重心完美且有灼热感的铁剑；挥剑时会产生空气凝滞和缺氧感；右手掌出现神秘红印；噩梦画面变得更清晰"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 不知铁剑真实来历和父亲塞剑原因；不知父母隐居真相和暗中警戒；不知噩梦含义"
+    },
+    {
+      "source": "story/chapter_summaries.md#1",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "烧火棍与旧噩梦 | 雷恩离家前往王都魔法学院，父亲巴斯特暗中将封印中的传奇铁剑塞入其行李，渡口客栈过夜后准备渡河 | 雷恩离开枫叶镇抵达渡口；获得封印铁剑；右手掌出现神秘红印；噩梦画面变得更清晰 | hk_001 advanced, hk_002 advanced, hk_006 advanced, hk_007 advanced; hk_005 mentioned"
+    },
+    {
+      "source": "story/chapter_summaries.md#2",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "残缺的徽纹 | 雷恩渡河乘马车前往王都，途中与银发少女合作救人并产生神秘感应，偷听到边境冒险者连环失踪案内幕，抵达学院门口 | 从渡口客栈抵达王都学院门口；确认红印与铁剑存在感应连接；银发少女首次登场并产生共鸣；铁剑锈迹再次剥落 | hk_001 advanced, hk_004 advanced, hk_005 advanced; hk_002 mentioned, hk_003 mentioned"
+    },
+    {
+      "source": "story/chapter_summaries.md#3",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "无声的刻度 | 雷恩入学报到被标'原生'，魔力测试被判零感应（测魔石无反应但自身感到力量被吸走），入住宿舍后噩梦再临看清银盾徽章，铁剑夜间自主转向且脱锈扩大，次日广场与银发少女对视产生强烈共鸣，卡尔·霍恩主动搭话警告导师将找他谈话 | 入住北区217宿舍；魔力测试零感应结果传开；红印颜色加深/边缘变化/可发光；铁剑展现自主行为（剑柄转向）；雷恩开始在意铁剑异常 | hk_001 advanced, hk_002 advanced, hk_004 advanced, hk_006 advanced; hk_005 mentioned"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-1",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_001: 物品 | open | 揭示铁剑为传奇佩剑'断隙'的真实身份 | slow-burn | 巴斯特暗中将锈迹斑斑的铁剑塞入雷恩行李，称其为防身工具。雷恩发现剑虽然破旧但重心完美，且带有灼热气息，甚至在做噩梦后掌心出现了与剑柄弧度一致的神秘红印。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-2",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_002: 身世 | open | 揭露噩梦为婴儿时期父母遭遇围杀的真实记忆 | mid-arc | 噩梦细节逐渐清晰：红雨、废墟、劈开天地的白光。巴斯特提及雷恩小时候做噩梦会怕事，暗示噩梦与当年变故有关。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-3",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_003: 阵营 | open | 追查者与巴斯特一家正面冲突，迫使巴斯特暴露身份或雷恩卷入危险 | near-term | 巴斯特暗中观察到镇上来了三拨伪装成商人的可疑人物，步态暴露了常年握剑的习惯，判断可能是仇家在打探消息。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-4",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_004: 感情 | open | 塞西莉亚家族祖传的魔法徽章上有一个残缺的符文，这个符文与雷恩母亲曾经创造的最高魔法阵有着隐秘的共鸣关系。 | slow-burn | none"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-5",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_005: 冲突 | open | 冒险者公会近期频频失踪的低级冒险者，其实是魔族先锋为了开启跨位面传送阵而进行的活祭，线索指向一个看似寻常的护送任务。 | near-term | 枫叶镇又贴出冒险者失踪的告示，客栈中也有准备去边境押送货物但面色憔悴的冒险者。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-6",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_006: 金手指 | open | 雷恩的剑术天赋在进行高强度实战时，会引发周围魔力元素的真空异象，这一异常现象将很快引来学院导师的特别关注。 | near-term | 雷恩将基础剑法练了两万遍，挥剑时周围空气变稀薄，胸口发闷。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-7",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_007: 悬念 | open | 边境结界崩溃引发魔族入侵危机 | mid-arc | 艾琳察觉边境结界又弱了一点，判断按此趋势撑不了几年。"
+    },
+    {
+      "source": "story/pending_hooks.md#hook-8",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "unspecified | open | story/pending_hooks.md#hk_008: 阵营 | open | 魔王手中的那块黑色残碑上预言的“终结族群的银色神明”，其画像特征与彻底爆发剑气时的雷恩完全吻合。 | slow-burn | none"
+    }
+  ]
+}
