@@ -1,0 +1,130 @@
+{
+  "chapter": 7,
+  "selectedContext": [
+    {
+      "source": "story/current_focus.md",
+      "reason": "Current task focus for this chapter.",
+      "excerpt": "（描述接下来 1-3 章最需要优先推进的内容。）"
+    },
+    {
+      "source": "story/audit_drift.md",
+      "reason": "Carry forward audit drift guidance from the previous chapter without polluting hard state facts.",
+      "excerpt": "> 第6章审计发现以下问题，下一章写作时必须避免："
+    },
+    {
+      "source": "story/current_state.md",
+      "reason": "Preserve hard state facts referenced by mustKeep.",
+      "excerpt": "| 字段 | 值 |"
+    },
+    {
+      "source": "story/story_bible.md",
+      "reason": "Preserve canon constraints referenced by mustKeep.",
+      "excerpt": "严禁配角强行降智商来配合主角装逼"
+    },
+    {
+      "source": "story/volume_outline.md",
+      "reason": "Anchor the default planning node for this chapter.",
+      "excerpt": "全书规划为五卷，情绪起伏紧扣“爽燃”与“温情”的交织。第一卷的主题是“锋芒初露与学院风云”，情绪曲线是轻松明快逐渐上扬，伴随着扮猪吃虎的爽感，在学院大比时达到沸点。第二卷主题为“公会淬炼与边境暗流”，情绪从热血的实战历练转向压抑与悬疑，魔族的阴影初次浮现，带来一种危机四伏的冷冽感。第三卷主题是“传奇归位与血统真相”，情绪急转直下后触底反弹，揭露父母身份的震撼与面对王国体制背叛的愤怒交织，爆发出反抗的极致燃点。第四卷主题是“种族之战与至死不渝”，情绪陷入悲壮与高亢的交替，魔族大举入侵，主角团在绝境中殊死搏杀。第五卷主题为“世界危机与最强之剑”，情绪走向史诗般的宏大与肃穆，随后在最终决战中释放所有张力，最终回归极度的宁静与温情。"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_titles",
+      "reason": "Keep recent title history visible to avoid repetitive chapter naming.",
+      "excerpt": "6: 剑鞘里的余温 | 5: 锈剑初鸣 | 4: 深渊的注视 | 3: 无声的刻度 | 2: 残缺的徽纹"
+    },
+    {
+      "source": "story/chapter_summaries.md#recent_mood_type_trail",
+      "reason": "Keep recent mood and chapter-type cadence visible before writing the next chapter.",
+      "excerpt": "6: 温情喘息中暗流紧绷 / 喘息章 | 5: 压抑积蓄到震撼爆发 / 高潮章 | 4: 暗流涌动中危机四伏 / 推进章 | 3: 压抑疑云中暗流涌动 / 推进章 | 2: 旅途暗涌中悬念渐浓 / 推进章"
+    },
+    {
+      "source": "story/chapters#recent_endings",
+      "reason": "Show how recent chapters ended so the writer avoids structural repetition (e.g. 3 consecutive collapse endings).",
+      "excerpt": "ch4: 身后黑暗的宿舍里，那片银白色的金属光泽一闪，像是什么东西翻了个身。 | ch5: 西边是王国的边境。边境那边，有东西正在不可逆转地松动。 | ch6: 雷恩把剑往怀里拢了拢，闭上眼睛。掌心与剑身的热度一前一后地跳动着。"
+    },
+    {
+      "source": "runtime/hook_debt#hook-1",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-1（unspecified，可兑现旧债，已开6章） | 读者承诺：揭示铁剑为传奇佩剑'断隙'的真实身份 | 种于第0章：ch5 锈剑初鸣 - 雷恩参加维拉理论课（封印原理）引发强烈记忆共鸣；卡尔警告调查十二年前学生有危险（去年有学生因此退学消失）；下午实战课铁剑吸收两枚火球，银盾纹路完全显现；格伦导师审视铁剑后暗示其不简单；看台神秘高年级人物关注雷恩；夜晚铁剑剑尖转向指向西方边境 | 推进于第6章：ch6 剑鞘里的余温 - 例行汇报后入选格伦进阶战技课，休斯追问父亲身份；图书馆找到银盾骑士团记载（300年前解散）和\"断隙\"拓片；卡尔训练场指导剑术，铁剑展现纠正姿势和物理吸收/反弹能力；艾琳来信告知追查者上门试探父亲，家庭危机急剧升级；夜晚首次完整战场梦境（银甲骑士vs巨大阴影），铁剑银白扩至近1/2"
+    },
+    {
+      "source": "runtime/hook_debt#hook-2",
+      "reason": "含原始种子文本的叙事债务简报。",
+      "excerpt": "hook-2（unspecified，主要旧债，已开6章） | 读者承诺：揭露噩梦为婴儿时期父母遭遇围杀的真实记忆 | 种于第0章：ch5 锈剑初鸣 - 雷恩参加维拉理论课（封印原理）引发强烈记忆共鸣；卡尔警告调查十二年前学生有危险（去年有学生因此退学消失）；下午实战课铁剑吸收两枚火球，银盾纹路完全显现；格伦导师审视铁剑后暗示其不简单；看台神秘高年级人物关注雷恩；夜晚铁剑剑尖转向指向西方边境 | 推进于第6章：ch6 剑鞘里的余温 - 例行汇报后入选格伦进阶战技课，休斯追问父亲身份；图书馆找到银盾骑士团记载（300年前解散）和\"断隙\"拓片；卡尔训练场指导剑术，铁剑展现纠正姿势和物理吸收/反弹能力；艾琳来信告知追查者上门试探父亲，家庭危机急剧升级；夜晚首次完整战场梦境（银甲骑士vs巨大阴影），铁剑银白扩至近1/2"
+    },
+    {
+      "source": "story/current_state.md#当前冲突",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前冲突 | 铁剑\"断隙\"觉醒加速（银白扩至1/2，物理吸收/反弹能力显现，纠正剑术姿势）；家庭危机急剧升级（追查者上门识破父亲身份，后院有人监视，老狗示警）；原生标签持续遭歧视；梦境记忆从碎片变为完整战场画面"
+    },
+    {
+      "source": "story/current_state.md#当前目标",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前目标 | 调查铁剑\"断隙\"与银盾骑士团的完整历史；在学院站稳脚跟（进阶战技课）；保护家人（回信告诫防范措施）；弄清楚追踪父亲的陌生人身份"
+    },
+    {
+      "source": "story/current_state.md#主角状态",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "主角状态 | 铁剑银白覆盖接近1/2剑身，盾形纹路如心跳明灭；铁剑名字确认为\"断隙\"（银盾骑士团初代团长佩剑）；铁剑具备纠正剑术姿势、吸收并反弹物理力量的能力；首次非噩梦视角看到完整战场记忆（银甲骑士vs巨大阴影）；掌心红印与剑身热度可同步呼应；入选格伦进阶战技课（一年级唯一）"
+    },
+    {
+      "source": "story/current_state.md#当前限制",
+      "reason": "Relevant current-state fact retrieved for the current chapter goal.",
+      "excerpt": "当前限制 | 不知铁剑完整来历与银盾骑士团解散原因；不知银甲骑士身份（梦中灰眼浅疤特征）；不知战场后方模糊身影身份；不知追踪者的组织归属；调查十二年前原生学员仍被警告极度危险；必须向休斯如实汇报异常"
+    },
+    {
+      "source": "story/chapter_summaries.md#4",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "深渊的注视 | 雷恩与休斯谈话得知原生分类含义和十二年前先例，被列为特殊观察；艾琳来信透露枫叶镇又来可疑商人且父亲要求封口；石碑浮雕眼睛开始觉醒；铁剑异变加剧一天三次自主转向 | 学籍调为特殊观察（每周一报到）；确认铁剑与测魔石力量性质一致；收到家信得知家中威胁升级 | 悬念-揭示-原生 advanced, hk_001 advanced, hk_003 advanced, hk_006 advanced, hk_007 advanced, hk_008 advanced"
+    },
+    {
+      "source": "story/chapter_summaries.md#5",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "锈剑初鸣 | 雷恩参加维拉理论课（封印原理）引发强烈记忆共鸣；卡尔警告调查十二年前学生有危险（去年有学生因此退学消失）；下午实战课铁剑吸收两枚火球，银盾纹路完全显现；格伦导师审视铁剑后暗示其不简单；看台神秘高年级人物关注雷恩；夜晚铁剑剑尖转向指向西方边境 | 铁剑银白覆盖1/4剑身，银盾纹路烙印显现；确认铁剑可吸收魔力攻击；红印形状与盾牌碎片完全吻合；卡尔第三次提供关键警告；原生标签全校传开；引发高年级神秘势力关注 | hk_001 major, hook-1 major, hook-2 major, mystery advanced, hk_006 advanced, hk_007 connected, 悬念-揭示-原生 advanced"
+    },
+    {
+      "source": "story/chapter_summaries.md#6",
+      "reason": "Relevant episodic memory retrieved for the current chapter goal.",
+      "excerpt": "剑鞘里的余温 | 例行汇报后入选格伦进阶战技课，休斯追问父亲身份；图书馆找到银盾骑士团记载（300年前解散）和\"断隙\"拓片；卡尔训练场指导剑术，铁剑展现纠正姿势和物理吸收/反弹能力；艾琳来信告知追查者上门试探父亲，家庭危机急剧升级；夜晚首次完整战场梦境（银甲骑士vs巨大阴影），铁剑银白扩至近1/2 | 铁剑名字确认为\"断隙\"；银白覆盖扩至近1/2；铁剑新能力显现（纠正姿势、物理吸收反弹）；入选进阶战技课；追查者识破巴斯特身份；梦境从噩梦转为战场记忆 | hk_001 major, hk_003 major, hook-1 major, hook-2 major, hk_006 advanced; hk_008 new, hk_009 new"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_008",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "物品 | open | 维拉教授结界暗门背后的秘密 | mid-arc | 新增。图书馆深处暗门有维拉教授结界，触碰至少三度烧伤。学生助管提醒。"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_009",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "悬念 | open | 梦中战场后方模糊身影的身份 | mid-arc | 新增。银盾碎裂后碎片飞向战场后方模糊身影，该身影怀里抱着什么（可能是婴儿雷恩）。骑士与碎片同飞向该方向——似在保护。"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_001",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "物品 | open | 揭示铁剑为传奇佩剑'断隙'的真实身份 | mid-arc | **重大推进**：图书馆拓片确认铁剑名为\"断隙\"，与银盾骑士团初代团长损毁佩盾同源。银白覆盖接近1/2。铁剑展现新能力：纠正剑术姿势、吸收并反弹物理力量。触碰拓片时红印发烫、铁剑嗡鸣共振。"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_003",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "阵营 | progressing | 追查者与巴斯特一家正面冲突，迫使巴斯特暴露身份或雷恩卷入危险 | mid-arc | **重大推进**：追查者直接上门，以修断刀为由观察巴斯特双手，识破\"握锤姿势像握过别的东西\"。巴斯特持锤守夜，后院有人监视，老狗示警。家庭危机急剧升级。"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_006",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "金手指 | open | 魔力真空异象引来学院导师特别关注 | mid-arc | 入选格伦进阶战技课（一年级唯一），卡尔称\"格伦从你剑上看到了什么\"。休斯追问父亲身份，似在调查巴斯特。"
+    },
+    {
+      "source": "story/pending_hooks.md#hk_007",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "悬念 | open | 边境结界崩溃引发魔族入侵危机 | mid-arc | 剑尖持续指向西方枫叶镇方向。梦中战场天空深紫色裂痕，与边境封印衰退呼应。"
+    },
+    {
+      "source": "story/pending_hooks.md#mystery-揭示十二年前-原生学员的真实身份与结局",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "mystery | open | 揭示十二年前原生学员的真实身份与结局 | mid-arc | 无新推进。休斯追问雷恩父亲身份，可能与十二年前线索相关。"
+    },
+    {
+      "source": "story/pending_hooks.md#悬念-揭示-原生",
+      "reason": "Carry forward unresolved hooks that match the chapter focus.",
+      "excerpt": "悬念 | open | 揭示'原生'分类在学院体系中的特殊含义及对雷恩的影响 | mid-arc | 原生标签持续遭歧视，食堂无人愿同桌。布拉德散布谣言被格伦制止。"
+    }
+  ]
+}
